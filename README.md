@@ -1,5 +1,5 @@
 
-# Simple Game
+# Rapid-Retreat
 
 Overview
 Simple Game is a basic 2D game developed in Java using the Swing framework. The objective of the game is to control a blue square (the player) using the arrow keys and avoid colliding with randomly spawning red circles (enemies). If the player collides with an enemy, the game ends, and a "Game Over!" message is displayed.
