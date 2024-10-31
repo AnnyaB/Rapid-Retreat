@@ -118,7 +118,7 @@ public class SimpleGame extends JPanel implements ActionListener, KeyListener {
     }
 }
 /**Overview of Game Mechanics
-Game Window: The game is displayed in a window created by the JFrame class. 
+Game Window: This game is displayed in a window created by the JFrame class. 
 The game panel where all graphics are drawn is a subclass of JPanel.
 
 Player and Enemies:
